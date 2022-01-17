@@ -323,9 +323,16 @@ footer ul li:not(:last-child):after {
     height: 42px;
     font: bold 14px/42px "roboto";
   }
+  #content1 {
+    padding: 50px 0;
+  }
 
   #content1 .container .content1Header h2 {
     font-size: 28px;
+  }
+
+  #content1 .container .inner {
+    margin-top: 20px;
   }
   #content1 .container .inner article {
     width: 100%;
